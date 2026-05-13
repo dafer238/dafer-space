@@ -1,0 +1,14 @@
+[submodule "astrodynamics"]
+	path = astrodynamics
+	url = https://github.com/dafer238/dafer-astro.git
+	branch = main
+
+[submodule "avionics"]
+	path = avionics
+	url = https://github.com/dafer238/dafer-avionics.git
+	branch = main
+
+[submodule "propulsion"]
+	path = propulsion
+	url = https://github.com/dafer238/dafer-propulsion.git
+	branch = main
